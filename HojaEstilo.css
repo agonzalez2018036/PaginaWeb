@@ -1,0 +1,72 @@
+*{
+	margin: 0;
+}
+
+#cabecera{
+	width: 100%;
+	height: 280px;
+	background-image: url(Marquee/fondo.jpg);
+	color: rgb(255,255,255);
+}
+
+#titulo{
+	height: auto;
+	font-family: Serif;
+	text-align: center;
+	color: white;
+	background-color: black;
+	padding: 5px;
+}
+
+#contenido1{
+	background-color: #34495E;
+	text-align: center;
+	padding: 15px;
+	font-size: 14pt;
+}
+
+#contenido2{
+	background-color: #1A5276;
+	text-align: center;
+	padding: 15px;
+	font-size: 14pt;
+}
+
+#tabla{
+	background-color: black;
+	text-align: center;
+	color: white;
+	width: 100%;
+	height: 30px;
+}
+
+#primertitulo{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 5px;
+}
+
+#segundotitulo{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 5px;
+}
+
+p {
+	padding: 10px;
+	font-family: "arial", Georgia, Serif;
+}
+
+a {
+	color: white;
+}
+
+#piepagina {
+	background-color: black;
+	padding: 15px;
+	color: white;
+	text-align: left;
+	font-size: 15pt;
+}
